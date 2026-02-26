@@ -1,0 +1,113 @@
+.products-banner {
+    height: 450px;
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.55),
+        rgba(0, 0, 0, 0.55)
+    ),
+    url("img/bg2.webp");
+    background-size: cover;
+    background-position: center;
+}
+
+.products-title {
+    font-size: 48px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    color: #d39b5e;
+}
+
+.breadcrumb-text {
+    font-size: 16px;
+    color: #f1c27d;
+}
+
+.breadcrumb-text span {
+    opacity: 0.85;
+}
+
+.breadcrumb-text .active {
+    font-weight: 500;
+    opacity: 1;
+}
+
+
+/* card title */
+
+
+
+.products-section {
+    background-color: black;
+}
+
+/* Section text */
+.section-tag {
+    color: #d6a25e;
+    font-size: 16px;
+    letter-spacing: 2px;
+}
+
+.section-title {
+    font-size: 36px;
+    font-weight: 600;
+    color: #f2c078;
+}
+
+.section-desc {
+    max-width: 700px;
+    margin: 10px auto 0;
+    font-size: 14px;
+    color: #c7b7aa;
+}
+
+/* Product Card */
+.product-card {
+    border: 1px solid #d6a25e;
+    padding: 25px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: #3b2c25;
+    transition: all 0.3s ease;
+    color: white;
+    height: 100%;
+}
+
+.product-card:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 10px 30px rgba(214,162,94,0.25);
+}
+
+.product-card img {
+    height: 200px;
+    width: 163px;
+    margin-bottom: 20px;
+}
+
+.product-card h5 {
+    color: #f2c078;
+    font-size: 16px;
+    margin-bottom: 8px;
+}
+
+.product-card p {
+    font-size: 13px;
+    color: #bfae9f;
+    margin-bottom: 20px;
+}
+
+/* Button */
+.btn-outline-gold {
+    display: inline-block;
+    padding: 8px 18px;
+    border: 1px solid #d6a25e;
+    color: #d6a25e;
+    text-decoration: none;
+    font-size: 11px;
+    letter-spacing: 1px;
+    border-radius: 20px;
+    transition: 0.3s;
+}
+
+.btn-outline-gold:hover {
+    background: #d6a25e;
+    color: #000;
+}

@@ -1,0 +1,58 @@
+{
+  "page": {
+    "title": "Products",
+    "banner": {
+      "heading": "PRODUCTS",
+      "breadcrumb": ["Home", "Products"]
+    },
+    "section": {
+      "tagline": "EXPLORE OUR COLLECTION",
+      "title": "Fresh & Organic Beans",
+      "description": "As pure as your senses, indulge in a carefully curated coffee blend, rich in tradition that awakens your senses. From vibrant single-origin in smooth velvety roast, Each batch is celebration of flavour and finesse. More than coffee, it is an invitation to pause, savor, and connect with the world around you. Elevate your daily ritual with Verolineas's premium selections"
+    },
+    "products": [
+      {
+        "id": 1,
+        "name": "CAFFÈ CREMA AROMA",
+        "description": "Purity and perfection in every roast.",
+        "image": "img/img1.jpg",
+        "detailsPage": "card1.html"
+      },
+      {
+        "id": 2,
+        "name": "ESPRESSO KAFFEEBOHNEN",
+        "description": "Intense aroma with a smooth finish.",
+        "image": "img/img2.jpg",
+        "detailsPage": "card2.html"
+      },
+      {
+        "id": 3,
+        "name": "VEROLINA COFFEE SET",
+        "description": "A luxurious blend of taste and aroma.",
+        "image": "img/img3.jpg",
+        "detailsPage": "card3.html"
+      },
+      {
+        "id": 4,
+        "name": "ESPRESSO SMALL CAN",
+        "description": "Perfect for a quick premium espresso.",
+        "image": "img/img4.jpg",
+        "detailsPage": "card4.html"
+      },
+      {
+        "id": 5,
+        "name": "ESPRESSO BEANS POUCH",
+        "description": "Rich and bold, packed for freshness.",
+        "image": "img/img5.jpg",
+        "detailsPage": "card5.html"
+      },
+      {
+        "id": 6,
+        "name": "ESPRESSO BEANS CAN",
+        "description": "Sealed perfection in every sip.",
+        "image": "img/img6.jpg",
+        "detailsPage": "card6.html"
+      }
+    ]
+  }
+}
